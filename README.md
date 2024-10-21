@@ -17,7 +17,7 @@ The dataset used in this project is sourced from **Kaggle** and contains various
 - **Subscribers by region**
 - **US audience streaming minutes** vs other streaming platforms
 
-**Source**: [Netflix Revenue and Usage Statistics - Kaggle](https://www.kaggle.com](https://www.kaggle.com/datasets/adnananam/netflix-revenue-and-usage-statistics?phase=FinishSSORegistration&returnUrl=%2Fdatasets%2Fadnananam%2Fnetflix-revenue-and-usage-statistics%2Fversions%2F1%3Fresource%3Ddownload&SSORegistrationToken=CfDJ8CXYA35d3CRDujxBNSrCTMshKNYZ2552CvxyDiuIBev5HXla8rW--65oVGqP--EMYP_SuZAbvBHc8KleKetsKUFGq3fzCRT3D2BSmEeT9u8YxQ4delJXEvFRnDhoCn4uh3YhhsJaD12WerjXU48_xj4t2TaA4gm5GQGpo18MZCcTgT6qLC5cxczkp7FgVz8JUhMEMh099SYzgv2btotdUWrTIRKyhFh9czKBwO0FSIqGJuUElt8g9-lNb15r1MzObjeJV-DR_u8T4_CGFQjRP7wzsiNDr-UMK3SUw-wprFfU86O5eshWlxGZmeLiEGhdp41STdAgKxWK7Yfm2OXPtGlZqPivK0ds3wQ&DisplayName=Eshita+Kundu)
+**Source**: https://www.kaggle.com/datasets/adnananam/netflix-revenue-and-usage-statistics
 
 ## Completed Steps
 
