@@ -47,11 +47,19 @@ Below is the relationship mapping between the different datasets used for the an
 
 ## Files in the Repository
 
-### 1. **data/Netflix-Revenue-and-Usage-Statistics.xlsx**
-   The original dataset sourced from Kaggle, containing all sheets related to Netflix's financial performance.
+### 1. **data/netflix_revenue_usage_raw_data.xlsx**
+   This file contains the raw, unprocessed dataset sourced from Kaggle. It includes multiple sheets with Netflix's financial and usage data:
+   - Netflix ARPU by Region: Data on Netflix's Average Revenue Per User (ARPU) across different regions.
+   - Netflix Profit: Financial information related to Netflix's profitability.
+   - Netflix Content Spend: Details on Netflix's spending on content acquisition and production.
+   - Netflix Subscribers: Information on Netflix's subscriber base, potentially covering total subscribers and historical trends.
+   - Netflix Subscribers by Region: Breakdown of Netflix's subscribers by geographic regions.
+   - Netflix Share of US Streaming Minutes: Data indicating Netflix's share of streaming minutes in the US market.
+   - Netflix US Library Size: Insights into the size of Netflix's content library in the United States.
+   - Netflix vs Disney Plus: Subscribers: A comparison between Netflix and Disney Plus in terms of their subscriber counts.
 
-### 2. **powerbi/Netflix-Revenue-Analysis.pbix**
-   This file contains the cleaned and transformed data within Power BI. It includes:
+### 4. **images/relationship-diagram.png**
+   A diagram showing the relationships between different tables in Power BI, reflecting how the tables are connected using common columns (e.g., Year).
 
 ### 3. **README.md**
    A detailed project documentation that outlines the objectives, steps taken, files included, and the roadmap for further progress.
